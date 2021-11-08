@@ -1,0 +1,10 @@
+#!/bin/bash
+
+ln -s ./tools/HardwareSimulator.sh HardwareSimulator
+ln -s ./tools/Assembler.sh Assembler
+ln -s ./tools/CPUEmulator.sh CPUEmulator
+ln -s ./tools/JackCompiler.sh JackCompiler
+ln -s ./tools/TextComparer.sh TextComparer
+ln -s ./tools/VMEmulator.sh VMEmulator
+
+
